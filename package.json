@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ErikaDanEE/mission-site/issues"
   },
-  "homepage": "https://github.com/ErikaDanEE/mission-site#readme"
+  "homepage": "https://github.com/ErikaDanEE/mission-site#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.4"
+  }
 }
